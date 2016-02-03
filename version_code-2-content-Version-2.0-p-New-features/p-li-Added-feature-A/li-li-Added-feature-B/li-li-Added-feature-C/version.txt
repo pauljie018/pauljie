@@ -1,0 +1,1 @@
+{"version_code":5,"content":"Version 2.0 <p>New features:</p><li>Fix Translation Bug</li><li>Added More Words in Database</li><li>Minor Bug Fixes</li>"}
